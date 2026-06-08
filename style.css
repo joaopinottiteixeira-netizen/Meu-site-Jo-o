@@ -1,18 +1,28 @@
 body{
-    background-color: rgb(157, 44, 44);
+    background-color: #e5e5e5ba;
+    background-image:url(https://thumbs.dreamstime.com/b/ondas-de-oceano-escuras-profundas-do-fundo-subaqu%C3%A1tico-84542265.jpg) ;
     text-align: center;
+    background-size: 100%;
 }    
 .cartão{
-    width: 50%;
-    background-color: black;
+    width: 40%;
+    background-color: black(169,33, 17, o.734);
     margin:auto;
     border-radius: 100px;
     border-style: groove;
+    margin-top: 50px;
 
 
 }
 img{
-    width: 752px;
+    margin-top: 50px;
+    width: 900px;
+    border-radius: 50px;
     
 }
-p,h1,h2{    
+p,h1,h2{
+    color: rgb(0, 229, 250);
+}
+a{
+  text-decoration: nome;
+}  
